@@ -1,3 +1,5 @@
+Containerized version of gv_tools project. Lots of TO-DOs around here.
+
 # Ground-vision toolkit
 A toolkit for ground feature processing, inverse perspective mapping (IPM) and so on, which is applied in our preprint [Ground-VIO](https://arxiv.org/abs/2306.08341).
 <br/><br/>
